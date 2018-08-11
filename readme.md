@@ -39,8 +39,10 @@ The  "github.com-secondaccount" section is absolutely important and it must matc
 
 $ git remote add origin github.com-secoundaccount:gituser/somerepo.git
 
-6. Finally push the repo
+6. Finally push the repo:
+
 $ git push origin master
+
 
 
 
