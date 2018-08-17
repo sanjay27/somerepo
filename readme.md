@@ -1,5 +1,4 @@
 How to setup multiple github accounts on your local machine?
-============================================================
 
 1. create a config file under your ~/.ssh
 
