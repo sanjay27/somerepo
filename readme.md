@@ -49,6 +49,4 @@ $ git push origin master
 
 
 
-
-
-
+7. 
